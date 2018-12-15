@@ -1,3 +1,3 @@
 myrepo
 ======
-Hello world!Hello again!!!
+Hello world!
